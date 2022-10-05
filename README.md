@@ -1,7 +1,7 @@
 
 # Bootcamp NTT DATA Diversidade em Tech
 
-## Desafio
+## "Desafio"
 
 ### Criar Uma Página Web Utilizando as Tags Aprendidas
 
@@ -15,6 +15,3 @@ Importante dizer que, estas tags te "seguirão" durante TODO O CURSO, por isso, 
 
 Este desafio vai fazer com que tenha dúvidas, o que é ótimo! Aos poucos você vai evoluindo na sua jornada.
 
-Após concluído este desafio! Siga para o <strong>Módulo II - Conceitos Básicos.</strong>
-
-Nos vemos lá!
